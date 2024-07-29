@@ -1,3 +1,3 @@
 # SQL_sample
 
-A collection of my sample SQL files.
+A collection of My sample SQL files.
